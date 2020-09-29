@@ -228,7 +228,7 @@ MR.XOXO-AHAS-MR.50FW4R3-MR.TREVION-DFV47
 XNOT FOUND-MR.X FOR AKA96-IY4K17-MR.DEVIL' | lolcat -p0.0002 -F0.005 -S100 -a -d2 -s60 -8
 tidur 5 " );
 }
-elseif ( $ a == '1' ) {
+elseif($a=="1") {
     echo "menginstall\n";
     @system("pkg install python
 git clone https://github.com/cyweb/hammer");
